@@ -1,4 +1,5 @@
 flask
 gunicorn
 pyttsx3
+SpeechRecognition
 
