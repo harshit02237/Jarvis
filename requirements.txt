@@ -1,5 +1,8 @@
 flask
 gunicorn
 pyttsx3
-SpeechRecognition
-
+speechrecognition
+openai
+gtts
+pyaudio
+requests
